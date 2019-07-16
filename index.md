@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Bram Tunggala 
 
-You can use the [editor on GitHub](https://github.com/MyNameisBram/bram-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
+#### Wennco LLC 
+#### Atlanta, GA - Partner, Head of Operations and Trader 
+**Jan 2018 - Sep 2018**
 
-### Markdown
+Responsible for trading  operations, portfolio management  and execution, assist portfolio construction on equities and equity options. Responsible for managing institutional  partner relationships. Collaborate with CIO on research, trade ideas, and products.  Contributes to  business development, marketing, social media content and overall vision of the company. Managed and created internal database. Communicated critical data/information to partners and  clients  to ensure best practice and result. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Peachcap
+#### Atlanta, GA - Head of Technical Analysis and Trader 
+**Feb 2017 - Jan 2018**
 
-```markdown
-Syntax highlighted code block
+Reports directly to CIO, CEO and Investment Committee. Responsible for portfolio construction (equities and options), market letter construction, data screening and time sensitive research material. Generates equity / index options for covered call and custom collars for portfolios and clients. Portfolio manager for in house Index Options Strategy. Trades Institutional SMA, and in house SMA strategies. Communicated critical data/information to department heads to ensure best practice and outcome. 
 
-# Header 1
-## Header 2
-### Header 3
+#### Peachcap
+#### Atlanta, GA - Equity Research Analyst and Junior Trader  
+**Oct 2016 - Feb 2017**
 
-- Bulleted
-- List
+Researched equities with a base of Graham and Dodd Security Analysis. Equity screening using sell / buy side research and other publicly available information (regulatory filings). Assists in portfolio construction (equities), data screening and time sensitive research material. 
 
-1. Numbered
-2. List
+#### Self-employed
+#### Atlanta, GA   
+**Oct 2015 - Oct 2016**
 
-**Bold** and _Italic_ and `Code` text
+Managed personal portfolio, income generating strategy, using equity options.
 
-[Link](url) and ![Image](src)
-```
+#### Formcase
+#### Atlanta, GA - North American OPerations and Sales Manager
+**Aug 2009 - Oct 2015**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MyNameisBram/bram-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Generated 60% of sales to breakthrough $1MM of revenue. Managed  North American operations for global furniture manufacturing company. Reported directly to CEO, and directly managed plant managers to achieve the highest quality product. Oversaw financial management and logistics, and created systems to improve information flow, planning and logistics management. 
