@@ -77,7 +77,7 @@ Researched equities with a base of Graham and Dodd Security Analysis. Equity scr
 Managed personal portfolio, income generating strategy, using equity options.
 
 ### [Formcase](https://www.formcase.com/)
-#### Atlanta, GA - North American OPerations and Sales Manager
+#### Atlanta, GA - North American Operations and Sales Manager
 **Aug 2009 - Oct 2015**
 
 Generated 60% of sales to breakthrough $1MM of revenue. Managed  North American operations for global furniture manufacturing company. Reported directly to CEO, and directly managed plant managers to achieve the highest quality product. Oversaw financial management and logistics, and created systems to improve information flow, planning and logistics management. 
