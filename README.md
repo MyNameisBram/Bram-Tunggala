@@ -12,33 +12,23 @@ His wife says he's a loving husband, his son says he's a compassionate father (i
 - Empathy - Golden Rule “Treat others the way you want to be treated” 
 - Decisive - perform without fail what you resolve (what you set out to do)
 - Peaceful - don’t be disturbed at unimportant things, or at random accidents
-- Generous - give with a full heart 
-- Moderation - avoid extremes
-- Temperance - eat and drink in moderation
-- Humility - imitate Jesus
-- Faithfulness - serve your Lord, self, wife, family and duties
-- Perseverance - continued effort despite difficulties
-- Industry - lose no time; always be doing something useful; cut off unnecessary actions
-- Order - let all your things have their places; let each part of your business have its time
-- Sincerity - think innocently and justly, and if you speak, speak accordingly
-- Integrity - do what you set out to do when no one is watching
 
-# Technical 
+# Technical Projects
 
-### Efficient Revenue Recovery - [Github]()
+### Efficient Revenue Recovery - [Github](https://github.com/MyNameisBram/Efficient-Revenue-Recovery)
 *Segment and rank accounts by likelihood of payment using Machine Learning for Collection Agency*
 + Merged five different datasets, cleaned and explored data, 12+million records and 46+ columns
 + Utilized dimensionality reduction, clustering, classification, and neural network models on imbalanced data 
 + Created a scoring system and manipulated data to segment and rank accounts 
 + Presented findings to executives, highlighting areas of potential improvement 
 
-### Sarcasm Detection Using News Headlines - [Github]()
+### Sarcasm Detection Using News Headlines - [Github](https://github.com/MyNameisBram/SarcasmDetectionUsingNewsHeadlines)
 *Text classification using NLPs to detect sarcasm using news headlines*
 + Used word embeddings to retain semantic relationship within words
 + Utilized recurrent neural network (RNN) with a pre-trained embedding layer GloVe
 + Defined plotting function to visualize model performance 
 
-### Hypothesis Testing - [Github]() 
+### Hypothesis Testing - [Github](https://github.com/MyNameisBram/Hypothesis-Testing-Discounts) 
 *Testing if discounts have a statistically significant effect on the number of products customers order*
 + Checked for data normality visually using Q-Q plot and statistically using SciPy’s normaltest
 + Performed Welch’s T test and examined effect size using Cohen’s d 
@@ -47,19 +37,19 @@ His wife says he's a loving husband, his son says he's a compassionate father (i
 
 
 # Experience
-### Wennco LLC 
+### [Wennco LLC](https://www.wenncoadvisors.com/) 
 #### Atlanta, GA - Partner, Head of Operations and Trader 
 **Jan 2018 - Sep 2018**
 
 Responsible for trading  operations, portfolio management  and execution, assist portfolio construction on equities and equity options. Responsible for managing institutional  partner relationships. Collaborate with CIO on research, trade ideas, and products.  Contributes to  business development, marketing, social media content and overall vision of the company. Managed and created internal database. Communicated critical data/information to partners and  clients  to ensure best practice and result. 
 
-### Peachcap
+### [Peachcap](https://peachcap.com/)
 #### Atlanta, GA - Head of Technical Analysis and Trader 
 **Feb 2017 - Jan 2018**
 
 Reports directly to CIO, CEO and Investment Committee. Responsible for portfolio construction (equities and options), market letter construction, data screening and time sensitive research material. Generates equity / index options for covered call and custom collars for portfolios and clients. Portfolio manager for in house Index Options Strategy. Trades Institutional SMA, and in house SMA strategies. Communicated critical data/information to department heads to ensure best practice and outcome. 
 
-### Peachcap
+### [Peachcap](https://peachcap.com/)
 #### Atlanta, GA - Equity Research Analyst and Junior Trader  
 **Oct 2016 - Feb 2017**
 
@@ -71,7 +61,7 @@ Researched equities with a base of Graham and Dodd Security Analysis. Equity scr
 
 Managed personal portfolio, income generating strategy, using equity options.
 
-### Formcase
+### [Formcase](https://www.formcase.com/)
 #### Atlanta, GA - North American OPerations and Sales Manager
 **Aug 2009 - Oct 2015**
 
