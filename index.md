@@ -81,3 +81,9 @@ Managed personal portfolio, income generating strategy, using equity options.
 **Aug 2009 - Oct 2015**
 
 Generated 60% of sales to breakthrough $1MM of revenue. Managed  North American operations for global furniture manufacturing company. Reported directly to CEO, and directly managed plant managers to achieve the highest quality product. Oversaw financial management and logistics, and created systems to improve information flow, planning and logistics management. 
+
+### Education/Certification
+- Flatiron School: Data Science Immersive
+- SQL: DataCamp
+- R: DataCamp
+- FINRA Series 7, Series 9
