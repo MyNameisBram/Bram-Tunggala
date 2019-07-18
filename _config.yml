@@ -1,8 +1,8 @@
 
 
 title: Bram Tunggala
-logo: 
-description: Hello, my name is Bram Tunggala
-show_downloads: true
+logo: bram_pic.png
+description: Data scientist and machine learning engineer with a passion in generating value using data, focusing on intuition and practical benefits. Experience in data manipulation, data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP. A life long learner.   
+show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
