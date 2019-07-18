@@ -1,4 +1,49 @@
-# Bram Tunggala 
+# What people say about Bram:  
+His wife says he's a loving husband, his son says he's a compassionate father (in baby language of course), his parents would say he's a respectful son, his simblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-empolyers/peers would says he's a diligent worker, and he would say he's a dreamer and has an optimistic outlook on life.  
+
+### What does Bram like to do? 
+- run around chasing his 7 month old son Max, who crawls really really really fast
+- drink beer with his beautiful wife Emily and play devil's advocate even though he agrees with her 99% of the time
+- having friends over, smoking meat on his big green egg and starting a conversation with... remember the time when... 
+- golfing, then contemplating on why he still plays because he's not very good at it
+- hanging out at the YMCA outdoor pool watching his son dip his face in the water and regretting it, then repeating a hundred more times because... babies right? 
+
+### Virtures he strives to live by: 
+- Empathy - Golden Rule “Treat others the way you want to be treated” 
+- Decisive - perform without fail what you resolve (what you set out to do)
+- Peaceful - don’t be disturbed at unimportant things, or at random accidents
+- Generous - give with a full heart 
+- Moderation - avoid extremes
+- Temperance - eat and drink in moderation
+- Humility - imitate Jesus
+- Faithfulness - serve your Lord, self, wife, family and duties
+- Perseverance - continued effort despite difficulties
+- Industry - lose no time; always be doing something useful; cut off unnecessary actions
+- Order - let all your things have their places; let each part of your business have its time
+- Sincerity - think innocently and justly, and if you speak, speak accordingly
+- Integrity - do what you set out to do when no one is watching
+
+# Technical 
+
+### Efficient Revenue Recovery - [Github]()
+*Segment and rank accounts by likelihood of payment using Machine Learning for Collection Agency*
++ Merged five different datasets, cleaned and explored data, 12+million records and 46+ columns
++ Utilized dimensionality reduction, clustering, classification, and neural network models on imbalanced data 
++ Created a scoring system and manipulated data to segment and rank accounts 
++ Presented findings to executives, highlighting areas of potential improvement 
+
+### Sarcasm Detection Using News Headlines - [Github]()
+*Text classification using NLPs to detect sarcasm using news headlines*
++ Used word embeddings to retain semantic relationship within words
++ Utilized recurrent neural network (RNN) with a pre-trained embedding layer GloVe
++ Defined plotting function to visualize model performance 
+
+### Hypothesis Testing - [Github]() 
+*Testing if discounts have a statistically significant effect on the number of products customers order*
++ Checked for data normality visually using Q-Q plot and statistically using SciPy’s normaltest
++ Performed Welch’s T test and examined effect size using Cohen’s d 
++ Summarized results with p-value, confidence level and the significance of effect size
+
 
 
 # Experience
