@@ -8,10 +8,18 @@ His wife says he's a loving husband, his son would say he's a compassionate fath
 - golfing, then contemplating on why he still plays because he's not very good at it
 - hanging out at the YMCA outdoor pool watching his son dip his face in the water and regretting it, then repeating a hundred more times because... babies right? 
 
-### Virtures he strives to live by: 
+### Virtures to live by: 
 - Empathy - Golden Rule “Treat others the way you want to be treated” 
 - Decisive - perform without fail what you resolve (what you set out to do)
 - Peaceful - don’t be disturbed at unimportant things, or at random accidents
+
+---
+
+>> *"He is comfortable presenting new ideas to a large team and is also comfortable and excels at client relations.  Bram doesn’t shy away from challenges and stops for feedback along the way.  He is extremely effective at making processes – in several areas of a company – more efficient.  He stays ahead of the curve in technology, and often implemented processes in this arena that made the day to day operations smoother and time-efficient."*       
+
+> Chris Wenner - Managing Director, Wennco LLC
+
+---
 
 # Technical Projects
 
