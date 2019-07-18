@@ -47,7 +47,7 @@ His wife says he's a loving husband, his son would say he's a compassionate fath
 
 [**My Github**](https://github.com/MyNameisBram)
 
-#### Languages:
+# Languages
 - English 
 - Bahasa Indonesia
 
