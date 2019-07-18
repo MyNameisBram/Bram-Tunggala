@@ -13,7 +13,7 @@ His wife says he's a loving husband, his son would say he's a compassionate fath
 
 ### Virtures to live by: 
 - Empathy - Golden Rule “Treat others the way you want to be treated” 
-- Decisive - perform without fail what you resolve (what you set out to do)
+- Decisive - perform without fail what you set out to do
 - Peaceful - don’t be disturbed at unimportant things, or at random accidents
 
 ---
