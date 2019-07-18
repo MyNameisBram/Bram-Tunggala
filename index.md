@@ -1,9 +1,12 @@
-# What people say about Bram:  
+# About
+Bram was born in Jakarta, Indonesia and moved to suburbs of Atlanta when he was 7 years old. He now lives in almost Decatur with his wife, 7 month old son, and their cat Hodor. 
+
+### What people say about Bram:  
 His wife says he's a loving husband, his son would say he's a compassionate father (in baby language of course), his parents would say he's a respectful son, his simblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-empolyers/peers would says he's a diligent worker, and he would say he's a dreamer and has an optimistic outlook on life.  
 
 ### What does Bram like to do? 
-- run around chasing his 7 month old son Max, who crawls really really really fast
-- drink beer with his beautiful wife Emily and play devil's advocate even though he agrees with her 99% of the time
+- run around chasing his 7 month old son, who crawls really really really fast
+- drink beer with his beautiful wife and play devil's advocate even though he agrees with her 99% of the time
 - having friends over, smoking meat on his big green egg and starting a conversation with... remember the time when... 
 - golfing, then contemplating on why he still plays because he's not very good at it
 - hanging out at the YMCA outdoor pool watching his son dip his face in the water and regretting it, then repeating a hundred more times because... babies right? 
@@ -42,7 +45,11 @@ His wife says he's a loving husband, his son would say he's a compassionate fath
 + Performed Welch’s T test and examined effect size using Cohen’s d 
 + Summarized results with p-value, confidence level and the significance of effect size
 
+[**My Github**](https://github.com/MyNameisBram)
 
+#### Languages:
+- English 
+- Bahasa Indonesia
 
 # Experience
 ### [Wennco LLC](https://www.wenncoadvisors.com/) 
