@@ -84,6 +84,8 @@ Generated 60% of sales to breakthrough $1MM of revenue. Managed  North American 
 
 ### Education/Certification
 - Flatiron School: Data Science Immersive
+  - Statistical analysis, data acquisition, data modeling, machine learning, deep learning, NLP
+  - Python, SQL, SQLAlchemy, scikit-learn, SciPy, NumPy, Pandas, Keras, Matplotlib, Seaborn
 - SQL: DataCamp
 - R: DataCamp
 - FINRA Series 7, Series 9
