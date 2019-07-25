@@ -24,28 +24,28 @@ His wife says he's a loving husband, his son would say he's a compassionate fath
 
 ---
 
-# Technical Projects
+# [Technical Projects](https://github.com/MyNameisBram)
 
 ### Efficient Revenue Recovery - [Github](https://github.com/MyNameisBram/Efficient-Revenue-Recovery)
-*Segment and rank accounts by likelihood of payment using Machine Learning for Collection Agency*
-+ Merged five different datasets, cleaned and explored data, 12+million records and 46+ columns
-+ Utilized dimensionality reduction, clustering, classification, and neural network models on imbalanced data 
-+ Created a scoring system and manipulated data to segment and rank accounts 
-+ Presented findings to executives, highlighting areas of potential improvement 
+*A tool for Collection Agencies to segment and rank accounts by likelihood of payment using Machine Learning Models*
++ Merge multiple datasets using Pandas, cleaned and explored data, 12+million records and 46+ columns
++ Utilized scikit-learn dimensionality reduction: PCA, t-SNE and Truncated SVD in order to cluster classes
++ Exhausted multiple classification models, with SVM as the best accuracy
++ Created a scoring system using feature importance and manipulated data to segment and rank accounts
++ Communicated findings to executives, highlighting areas of potential improvement and ideas for future work
 
 ### Sarcasm Detection Using News Headlines - [Github](https://github.com/MyNameisBram/SarcasmDetectionUsingNewsHeadlines)
 *Text classification using NLPs to detect sarcasm using news headlines*
 + Used word embeddings to retain semantic relationship within words
-+ Utilized recurrent neural network (RNN) with a pre-trained embedding layer GloVe
++ Utilized recurrent neural network (RNN) with a pre-trained embedding layer GloVe resulting 81% accuracy 
 + Defined plotting function to visualize model performance 
 
-### Hypothesis Testing - [Github](https://github.com/MyNameisBram/Hypothesis-Testing-Discounts) 
+### Statistical Testing - [Github](https://github.com/MyNameisBram/Hypothesis-Testing-Discounts) 
 *Testing if discounts have a statistically significant effect on the number of products customers order*
 + Checked for data normality visually using Q-Q plot and statistically using SciPy’s normaltest
 + Performed Welch’s T test and examined effect size using Cohen’s d 
 + Summarized results with p-value, confidence level and the significance of effect size
 
-[**My Github**](https://github.com/MyNameisBram)
 
 # Languages
 - English 
@@ -56,31 +56,44 @@ His wife says he's a loving husband, his son would say he's a compassionate fath
 #### Atlanta, GA - Partner, Head of Operations and Trader 
 **Jan 2018 - Sep 2018**
 
-Responsible for trading  operations, portfolio management  and execution, assist portfolio construction on equities and equity options. Responsible for managing institutional  partner relationships. Collaborate with CIO on research, trade ideas, and products.  Contributes to  business development, marketing, social media content and overall vision of the company. Managed and created internal database. Communicated critical data/information to partners and  clients  to ensure best practice and result. 
++ Responsible for trading operations, portfolio management and trade execution
++ Assisted portfolio construction on equities and equity options
++ Managed and communicated with institutional partner relationships
++ Collaborated with CIO on research, trade ideas, products and market letter construction
++ Organized internal data and created systems
 
 ### [Peachcap](https://peachcap.com/)
 #### Atlanta, GA - Head of Technical Analysis and Trader 
 **Feb 2017 - Jan 2018**
 
-Reports directly to CIO, CEO and Investment Committee. Responsible for portfolio construction (equities and options), market letter construction, data screening and time sensitive research material. Generates equity / index options for covered call and custom collars for portfolios and clients. Portfolio manager for in house Index Options Strategy. Trades Institutional SMA, and in house SMA strategies. Communicated critical data/information to department heads to ensure best practice and outcome. 
++ Responsible for portfolio construction (equities and options), and market letter construction
++ Generated equity / index options for covered call and custom collars for portfolios and clients
++ Traded Institutional SMA, and in house SMA strategies, and managed in house Index options Strategy
++ Communicated critical data/information to department heads to ensure best practice and outcome
++ Presented weekly/monthly reports to investment committee
 
 ### [Peachcap](https://peachcap.com/)
 #### Atlanta, GA - Equity Research Analyst and Junior Trader  
 **Oct 2016 - Feb 2017**
 
-Researched equities with a base of Graham and Dodd Security Analysis. Equity screening using sell / buy side research and other publicly available information (regulatory filings). Assists in portfolio construction (equities), data screening and time sensitive research material. 
++ Researched equities with a base of Graham and Dodd Security Analysis
++ Equity screening using sell / buy side research and other publicly available information (regulatory filings)
++ Assisted in portfolio construction (equities), data screening and time sensitive research material
 
 ### Self-employed
 #### Atlanta, GA   
 **Oct 2015 - Oct 2016**
 
-Managed personal portfolio, income generating strategy, using equity options.
++ Managed personal portfolio, income generating strategy, using equity options.
 
 ### [Formcase](https://www.formcase.com/)
 #### Atlanta, GA - North American Operations and Sales Manager
 **Aug 2009 - Oct 2015**
 
-Generated 60% of sales to breakthrough $1MM of revenue. Managed  North American operations for global furniture manufacturing company. Reported directly to CEO, and directly managed plant managers to achieve the highest quality product. Oversaw financial management and logistics, and created systems to improve information flow, planning and logistics management. 
++ Generated 60% of sales, breaking $1MM of revenue for North America
++ Managed North American operations and communicated with clients to ensure prompt deliveries and satisfaction
++ Reported to executives, and collaborated with plant managers to achieve timely deliverables
++ Created systems to improve information flow, planning and logistics management 
 
 ### Education/Certification
 - Flatiron School: Data Science Immersive
