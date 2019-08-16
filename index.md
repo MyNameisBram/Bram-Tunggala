@@ -2,7 +2,7 @@
 Bram was born in Jakarta, Indonesia and moved to suburbs of Atlanta when he was 7 years old. He now lives in almost Decatur with his wife, 7 month old son, and their cat Hodor. 
 
 ### What people say about Bram:  
-His wife says he's a loving husband, his son would say he's a compassionate father (in baby language of course), his parents would say he's a respectful son, his simblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-empolyers/peers would says he's a diligent worker, and he would say he's a dreamer and has an optimistic outlook on life.  
+His wife says he's a loving husband, his son would say he's a compassionate father (in baby language of course), his parents would say he's a respectful son, his siblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-employers/peers would says he's a diligent worker, and he would say he's a dreamer and has an optimistic outlook on life.  
 
 ### What does Bram like to do? 
 - run around chasing his 7 month old son, who crawls really really really fast
