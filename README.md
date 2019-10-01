@@ -2,7 +2,7 @@
 His wife says he's a loving husband, his son says he's a compassionate father (in baby language of course), his parents would say he's a respectful son, his simblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-empolyers/peers would says he's a diligent worker, and he would say he's a dreamer and has an optimistic outlook on life.  
 
 ### What does Bram like to do? 
-- run around chasing his 7 month old son Max, who crawls really really really fast
+- run around chasing his 10 month old son Max, who crawls really really really fast and as of Sep. 30 started walking! 
 - drink beer with his beautiful wife Emily and play devil's advocate even though he agrees with her 99% of the time
 - having friends over, smoking meat on his big green egg and starting a conversation with... remember the time when... 
 - golfing, then contemplating on why he still plays because he's not very good at it
