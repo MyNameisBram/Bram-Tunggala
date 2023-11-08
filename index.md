@@ -1,20 +1,21 @@
 # About
-Bram was born in Jakarta, Indonesia and moved to suburbs of Atlanta when he was 7 years old. He now lives in almost Decatur with his wife, 10 month old son, and their cat Hodor. 
+Bram was born in Jakarta, Indonesia and moved to suburbs of Atlanta when he was 7 years old. He now lives in Tucker, GA and lives with his wife and three kids. 
 
 ### What people say about Bram:  
-His wife says he's a loving husband, his son would say he's a compassionate father (in baby language of course), his parents would say he's a respectful son, his siblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-employers/peers would says he's a diligent worker, and he would say he's a dreamer and has an optimistic outlook on life.  
+His wife says he's a loving husband, his kids say he's a fun dad! His parents would say he's a respectful son, his siblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-employers/peers would says he's diligent and gets the job done, and he would say he's a dreamer and has an optimistic outlook on life.  
 
 ### What does Bram like to do? 
-- run around chasing his 10 month old son, who crawls really really really fast, and is now walking! 
-- drink beer with his beautiful wife and play devil's advocate even though he agrees with her 99% of the time
-- having friends over, smoking meat on his big green egg and starting a conversation with... remember the time when... 
-- golfing, then contemplating on why he still plays because he's not very good at it
-- hanging out at the YMCA outdoor pool watching his son dip his face in the water and regretting it, then repeating a hundred more times because... babies right? 
+- Read bedtime stories to his kids
+- Visit local the local beer garden with Wife
+- Spend time with family and friends
+- Having friends over, smoking meat while drinking beer and starting a conversation with... remember the time when... 
+- Golfing, then contemplating on why he still plays because he's not very good at it
+
 
 ### Virtures to live by: 
 - Empathy - Golden Rule “Treat others the way you want to be treated” 
-- Decisive - perform without fail what you set out to do
-- Peaceful - don’t be disturbed at unimportant things, or at random accidents
+- Decisive - Perform without fail what you set out to do
+- Peaceful - Don’t be disturbed at unimportant things, or at random accidents
 
 ---
 
@@ -25,6 +26,37 @@ His wife says he's a loving husband, his son would say he's a compassionate fath
 ---
 
 # [Technical Projects](https://github.com/MyNameisBram)
+
+### Dynamic content generation
+*A tool that generates custom content based on consumer input*
++ Utilized LLMs and vector database to generate domain specific content (RAG method).
++ Created pipelines to implement for production use.
+
+### Sentence-classifier/style-detection
+*A tool to detect sentence type and style of writing*
++ Used ensemble learning to classify sentence type e.g., introduction, call-to-action, etc.  
++ Used LLMs/Tranformers to identify tone/style of writing, e.g., casual/formal, and elaborate/concise.
+
+### Content manager and generation
+*A tool to create, read, update, and delete content
++ Used streamlit as the UI including authentication
++ Created efficiency, usability and accessibility of content management (before using google sheeets)
++ Generated email suggestion based on phrases and words that resonate with a persons personality
+
+### Personality prediction
+*A tool to predict Disc type*
++ Ngram analysis, used to identify correlations between words and personality type
+
+### Portfolio Liquidation Forecasting (pre-purchase)
+*A tool for Debt Buyers to predict portfolio liquidation prior to purchase of using Machine Learning Models*
++ Ensemble learning to decreased error rate significantly in overall purchase and per portfolio purchase 
++ Outperformed existing internal models and third-party vendor in which we spend $200k+ annually
+
+### Propensity-score 
+*A tool for Collection Agencies to identify and rank-order consumers with the highest-likelihood of payment*
++ Performed resampling strategies dealing with Imbalanced data, created ML-generated features
++ Used ensemble learning to increase model performance
+
 
 ### Efficient Revenue Recovery - [Github](https://github.com/MyNameisBram/Efficient-Revenue-Recovery)
 *A tool for Collection Agencies to segment and rank accounts by likelihood of payment using Machine Learning Models*
@@ -52,6 +84,25 @@ His wife says he's a loving husband, his son would say he's a compassionate fath
 - Bahasa Indonesia
 
 # Experience
+### [Crystal](https://www.crystalknows.com/)
+#### Nashville, TN - Remote (Software) - Product, Data Scientist
+**Aug 2022 - Present**
++ Implemented and established data pipelines and data department within organization
++ Used ML techniques to optimize personality prediction engine 
++ Use text mining/analysis, NLP techniques to generate text suggestions (feature) based on DISC types
++ Created and implemented sentence category/type detection within email using LLMs
++ Generated dynamic content using RAG method - Used LLM api along with vector database api to create custom content
++ UI for content management using Streamlit - create, read, update, and delete company content (used gsheet before)
+
+### [Capio LLC](https://capiofi.com/)
+#### Atlanta, GA (Healthcare Asset Management/Receivables) - Data Scientist II
+**Nov 2019 - July 2022**
++ Implemented and established data science method (OSEMN) and department within organization
++ Enriched data using NLP/NLTK to predict missing gender, sourced behavioral/demographic data to create consumer segments
++ Data enrichment, sourced behavioral data to better understand our consumers (MPI, Esri and ArcGIS toolkit)
++ Created Forecasting models to predict portfolio liquidation rate which increased accuracy of liquidation forecast by 100%
+
+
 ### [Wennco LLC](https://www.wenncoadvisors.com/) 
 #### Atlanta, GA - Partner, Head of Operations and Trader 
 **Jan 2018 - Sep 2018**
