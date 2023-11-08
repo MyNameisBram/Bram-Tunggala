@@ -1,18 +1,18 @@
 # About
-Bram was born in Jakarta, Indonesia and moved to suburbs of Atlanta when he was 7 years old. He now lives in Tucker, GA and lives with his wife and three kids. He's tactical, pragmatic, and a loves to learn. 
+Bram was born in Jakarta, Indonesia, and moved to the suburbs of Atlanta when he was 7 years old. He now lives in Tucker, GA with his wife and three kids. He's tactical, pragmatic, and loves to learn. 
 
 ### What people say about Bram:  
-His wife says he's a loving husband, his kids say he's a fun dad! His parents would say he's a respectful son, his siblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-employers/peers would says he's diligent and gets the job done, and he would say he's a dreamer and has an optimistic outlook on life.  
+His wife says he's a loving husband, his kids say he's a fun dad! His parents would say he's a respectful son, his siblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-employers/peers would say he's diligent and gets the job done, and he would say he's a dreamer and has an optimistic outlook on life.  
 
 ### What does Bram like to do? 
 - Read bedtime stories to his kids
-- Visit local the local beer garden with Wife
+- Visit the local beer garden with the Wife
 - Spend time with family and friends
-- Having friends over, smoking meat while drinking beer and starting a conversation with... remember the time when... 
+- Having friends over, smoking meat while drinking beer, and starting a conversation with... remember the time when... 
 - Golfing, then contemplating on why he still plays because he's not very good at it
 
 
-### Virtures to live by: 
+### Virtues to live by: 
 - Empathy - Golden Rule “Treat others the way you want to be treated” 
 - Decisive - Perform without fail what you set out to do
 - Peaceful - Don’t be disturbed at unimportant things, or at random accidents
@@ -29,7 +29,7 @@ His wife says he's a loving husband, his kids say he's a fun dad! His parents wo
 
 ### Dynamic content generation
 *A tool that generates custom content based on consumer input*
-+ Utilized LLMs and vector database to generate domain specific content (RAG method).
++ Utilized LLMs and vector database to generate domain-specific content (RAG method).
 + Created pipelines to implement for production use.
 
 ### Sentence-classifier/style-detection
@@ -39,9 +39,9 @@ His wife says he's a loving husband, his kids say he's a fun dad! His parents wo
 
 ### Content manager and generation
 *A tool to create, read, update, and delete content*
-+ Used streamlit as the UI including authentication
-+ Created efficiency, usability and accessibility of content management (before using google sheeets)
-+ Generated email suggestion based on phrases and words that resonate with a persons personality
++ Used Streamlit as the UI including authentication
++ Created efficiency, usability, and accessibility of content management (before using Google Sheets)
++ Generated email suggestions based on phrases and words that resonate with a person's personality
 
 ### Personality prediction
 *A tool to predict Disc type*
@@ -49,11 +49,11 @@ His wife says he's a loving husband, his kids say he's a fun dad! His parents wo
 
 ### Portfolio Liquidation Forecasting (pre-purchase)
 *A tool for Debt Buyers to predict portfolio liquidation prior to purchase of using Machine Learning Models*
-+ Ensemble learning to decreased error rate significantly in overall purchase and per portfolio purchase 
-+ Outperformed existing internal models and third-party vendor in which we spend $200k+ annually
++ Ensemble learning which decreased error rate significantly in overall purchase and per portfolio purchase 
++ Outperformed existing internal models and third-party vendors in which we spend $200k+ annually
 
 ### Propensity-score 
-*A tool for Collection Agencies to identify and rank-order consumers with the highest-likelihood of payment*
+*A tool for Collection Agencies to identify and rank-order consumers with the highest likelihood of payment*
 + Performed resampling strategies dealing with Imbalanced data, created ML-generated features
 + Used ensemble learning to increase model performance
 
@@ -68,15 +68,15 @@ His wife says he's a loving husband, his kids say he's a fun dad! His parents wo
 
 ### Sarcasm Detection Using News Headlines - [Github](https://github.com/MyNameisBram/SarcasmDetectionUsingNewsHeadlines)
 *Text classification using NLPs to detect sarcasm using news headlines*
-+ Used word embeddings to retain semantic relationship within words
++ Used word embeddings to retain semantic relationships within words
 + Utilized recurrent neural network (RNN) with a pre-trained embedding layer GloVe resulting 81% accuracy 
 + Defined plotting function to visualize model performance 
 
 ### Statistical Testing - [Github](https://github.com/MyNameisBram/Hypothesis-Testing-Discounts) 
 *Testing if discounts have a statistically significant effect on the number of products customers order*
-+ Checked for data normality visually using Q-Q plot and statistically using SciPy’s normaltest
-+ Performed Welch’s T test and examined effect size using Cohen’s d 
-+ Summarized results with p-value, confidence level and the significance of effect size
++ Checked for data normality visually using Q-Q plot and statistically using SciPy’s normal test
++ Performed Welch’s T-test and examined effect size using Cohen’s d 
++ Summarized results with p-value, confidence level, and the significance of effect size
 
 
 # Languages
