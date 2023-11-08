@@ -1,5 +1,5 @@
 # About
-Bram was born in Jakarta, Indonesia and moved to suburbs of Atlanta when he was 7 years old. He now lives in Tucker, GA and lives with his wife and three kids. 
+Bram was born in Jakarta, Indonesia and moved to suburbs of Atlanta when he was 7 years old. He now lives in Tucker, GA and lives with his wife and three kids. He's tactical, pragmatic, and a loves to learn. 
 
 ### What people say about Bram:  
 His wife says he's a loving husband, his kids say he's a fun dad! His parents would say he's a respectful son, his siblings would say he's a risk taker, his friends would say he's encouraging and loyal, his ex-employers/peers would says he's diligent and gets the job done, and he would say he's a dreamer and has an optimistic outlook on life.  
