@@ -38,7 +38,7 @@ His wife says he's a loving husband, his kids say he's a fun dad! His parents wo
 + Used LLMs/Tranformers to identify tone/style of writing, e.g., casual/formal, and elaborate/concise.
 
 ### Content manager and generation
-*A tool to create, read, update, and delete content
+*A tool to create, read, update, and delete content*
 + Used streamlit as the UI including authentication
 + Created efficiency, usability and accessibility of content management (before using google sheeets)
 + Generated email suggestion based on phrases and words that resonate with a persons personality
